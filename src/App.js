@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './components/Navbar';
+import Navbar from './components/navbar';
 import AboutUs from './Pages/Aboutus'; // Se a pasta for "Pages" (com maiúscula)
 import Dashboard from './Pages/Dashboard';
 
